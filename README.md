@@ -51,9 +51,7 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 
 ### Projet
 
-[ToolsBox](https://github.com/AtisFPS/ToolsBox) <img src="https://raw.githubusercontent.com/jgraph/drawio/e30be6f1ef163c3c89c2b8d8558b59ed76ccc7e6/src/main/webapp/img/lib/azure2/general/Powershell.svg" alt="PowerShell"></span>
-
-
+[ToolsBox](https://github.com/AtisFPS/ToolsBox) <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/skills/powershell.svg">
 
 
 ### Contact
