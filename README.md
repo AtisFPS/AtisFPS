@@ -51,7 +51,7 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 
 ### Projet
 
-| [ToolsBox](https://github.com/AtisFPS/ToolsBox)       | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)                      | `![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)`                      |
+| [ToolsBox](https://github.com/AtisFPS/ToolsBox)       | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  
 
 ### Contact
 - hserrure@poupli.net // serrure.hugo@gmail.com
