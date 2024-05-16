@@ -1,5 +1,5 @@
-<h1 align="center">Atis aka Hugo SERRURE</h1>
-<h3 align="center">BTS SIO option réseau ( SISR ) passionné par le réseau et touchant un peux au devloppement ! </h3>
+<h1 align="center">Atis // Hugo SERRURE</h1>
+<h3 align="center">Étudiant en BTS SIO option réseau ( SISR ) passionné par le réseau et touchant un peux au devloppement ! </h3>
 <a href="https://www.twitch.tv/atis_fps" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=STATUS+TWITCH" /></a>
 
@@ -51,9 +51,10 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 
 ### Projet
 
-# ![Powershell][] [ToolsBox](https://github.com/AtisFPS/ToolsBox)
+># ![Powershell][] [ToolsBox](https://github.com/AtisFPS/ToolsBox)
 
-[ToolsBox](https://github.com/AtisFPS/ToolsBox) | Language utilisé : <img src="([PowerShell.svg]([https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg](https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true)))" width="32" height="32" alt="PowerShell" style="vertical-align: middle;">
+[Powershell]: https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true
+
  
 
 
