@@ -47,7 +47,17 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" width="32" height="32" />
         </picture>
     </a>
+    <a href="[https://www.twitch.tv/atis_fps](https://discord.gg/sSYEQUcwtf)" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="32" height="32" />
+        </picture>
+    </a>
 </p>
+
+
+
 
 # Projet
 
