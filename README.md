@@ -51,7 +51,7 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 
 ### Projet
 
-[ToolsBox](https://github.com/AtisFPS/ToolsBox) ![PowerShell](https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/powershell.svg =32x32)  
+[ToolsBox](https://github.com/AtisFPS/ToolsBox) <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/powershell.svg" width="32" height="32" alt="PowerShell">
 
 ### Contact
 - hserrure@poupli.net // serrure.hugo@gmail.com
