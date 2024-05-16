@@ -1,5 +1,5 @@
 <h1 align="center">Atis // Hugo SERRURE</h1>
-<h3 align="center">Étudiant en BTS SIO option réseau ( SISR ) passionné par le réseau et touchant un peux au devloppement ! </h3>
+<h3 align="center">Étudiant en BTS SIO option réseau ( SISR ) passionné par le réseau et touchant un peux au développement ! </h3>
 <a href="https://www.twitch.tv/atis_fps" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=STATUS+TWITCH" /></a>
 
