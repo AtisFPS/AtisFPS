@@ -1,6 +1,7 @@
 <h1 align="center">AtisFPS aka Hugo SERRURE</h1>
 <h3 align="center">BTS SIO option réseau ( SISR ) passionné par le réseau et touchant un peux au devloppement ! </h3>
-src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=STATUS-TWITCH" /></a>
+<a href="https://www.twitch.tv/atis_fps" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=STATUS+TWITCH" /></a>
 
 ### Socials
 <p align="left">
