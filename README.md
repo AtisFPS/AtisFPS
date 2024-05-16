@@ -49,7 +49,7 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
     </a>
 </p>
 ### Projet :
-- [ToolsBox - Powershell](https://github.com/AtisFPS/ToolsBox)
+- [ToolsBox-Powershell](https://github.com/AtisFPS/ToolsBox)
 
 
 ### Contact
