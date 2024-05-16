@@ -49,3 +49,6 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
     </a>
 </p>
 
+## Contact
+- hserrure@poupli.net // serrure.hugo@gmail.com
+
