@@ -53,7 +53,7 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 
 ![Powershell][] [ToolsBox](https://github.com/AtisFPS/ToolsBox)
 
-[Powershell]: https://raw.githubusercontent.com/AtisFPS/AtisFPS/dd1042c5fed99fd9134305dfd047ce1caab244ac/upload/ps_black_32.svg
+[Powershell]: https://raw.githubusercontent.com/AtisFPS/AtisFPS/dd1042c5fed99fd9134305dfd047ce1caab244ac/upload/ps_black_10.svg
 
  
 
