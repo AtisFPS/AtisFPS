@@ -1,4 +1,4 @@
-<h1 align="center">Atis // Hugo SERRURE</h1>
+<h1 align="center">Atis // Hugo </h1>
 <h3 align="center">Étudiant en BTS SIO option réseau ( SISR ) passionné par le réseau et touchant un peux au développement ! </h3>
 
 
