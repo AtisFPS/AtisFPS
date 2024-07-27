@@ -57,4 +57,4 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 # Contact
 - ```atis@poupli.net``` | Temporairement down !  
 - ```atisfps@gmail.com```
-- ``` [Discord](https://discord.gg/sSYEQUcwtf)```
+- [Discord](https://discord.gg/sSYEQUcwtf)
