@@ -41,7 +41,7 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 
 # Projet
 
-- ### ![Poupli.net][] [Poupli.net](https://www.poupli.net) Temporairement down ! 
+- ### ![Poupli.net][] [Poupli.net](https://www.poupli.net) 
  
 - ### ![Powershell][] [ ToolsBox - SISR ](https://github.com/AtisFPS/ToolsBox)
 - ### ![Shell et Python][] [ ServerTools - Minecraft via discord ](https://github.com/AtisFPS/Minecraft-ServerTools)
@@ -55,6 +55,6 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 
 
 # Contact
-- ```atis@poupli.net``` | Temporairement down !  
+- ```atis@poupli.net```   
 - ```atisfps@gmail.com```
 - [Discord](https://discord.gg/sSYEQUcwtf)
