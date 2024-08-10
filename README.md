@@ -3,9 +3,6 @@
 
 
 # Réseaux sociaux : 
-<a href="https://www.twitch.tv/atis_fps" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=STATUS+TWITCH" /> </a>
-<p align="left">
        <a href="https://twitter.com/AtisFPS" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
