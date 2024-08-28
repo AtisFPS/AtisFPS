@@ -2,7 +2,7 @@
 [Powershell]: https://raw.githubusercontent.com/AtisFPS/AtisFPS/819441a3ee57d593782b0f457718c1894131187d/upload/ps_black_32.svg
 [Shell et Python]: https://raw.githubusercontent.com/AtisFPS/AtisFPS/main/upload/python.svg
 
-# ![Poupli.net][https://www.poupli.net] | Atis 
+# ![Poupli.net][] | Atis 
 
 <a href="https://www.twitch.tv/atis_fps" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=STATUS+TWITCH" /> </a>
