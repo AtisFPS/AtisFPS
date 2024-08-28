@@ -2,7 +2,7 @@
 [Powershell]: https://raw.githubusercontent.com/AtisFPS/AtisFPS/819441a3ee57d593782b0f457718c1894131187d/upload/ps_black_32.svg
 [Shell et Python]: https://raw.githubusercontent.com/AtisFPS/AtisFPS/main/upload/python.svg
 
-# ![Poupli.net][] AtisFPS
+# ![Poupli.net][] - Atis
 
 # Projet
 
@@ -14,7 +14,7 @@
 
 
  
-![](https://komarev.com/ghpvc/?username=AtisFPS&color=green)
+![](https://komarev.com/ghpvc/?username=AtisFPS&color=green&for-the-badge)
 
 # Contact
 - ```atis@poupli.net```   
