@@ -1,43 +1,4 @@
-<h1 align="center">Atis // Hugo </h1>
-<h3 align="center">Étudiant en BTS SIO option réseau ( SISR ) passionné par le réseau et touchant un peux au développement ! </h3>
-
-- ### ![Poupli.net][] [Portfolio](https://hserrure.poupli.net) 
-
-
-# Réseaux sociaux : 
-
-<a href="https://twitter.com/AtisFPS" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.youtube.com/@AtisFPS" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.twitch.tv/atis_fps" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" />
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://discord.gg/sSYEQUcwtf" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="32" height="32" />
-        </picture>
-    </a>
-</p>
-
-
-
+<h1 align="center">Atis</h1>
 
 # Projet
 
@@ -57,4 +18,3 @@
 # Contact
 - ```atis@poupli.net```   
 - ```atisfps@gmail.com```
-- [Discord](https://discord.gg/sSYEQUcwtf)
