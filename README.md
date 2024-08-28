@@ -9,8 +9,6 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 ![](https://komarev.com/ghpvc/?username=AtisFPS&color=blue&style=for-the-badge)
 
 # Projet
-
-- ### ![Poupli.net][] [Poupli.net](https://www.poupli.net)
  
 - ### ![Powershell][] [ ToolsBox - SISR ](https://github.com/AtisFPS/ToolsBox)
 - ### ![Shell et Python][] [ ServerTools - Minecraft via discord ](https://github.com/AtisFPS/Minecraft-ServerTools)
