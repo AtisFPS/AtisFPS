@@ -3,7 +3,7 @@
 [Shell et Python]: https://raw.githubusercontent.com/AtisFPS/AtisFPS/main/upload/python.svg
 
 # ![Poupli.net][] | Atis 
-### Étudiant en BTS SIO option Réseaux, je m’initie au scripting et au développement pour créer mes propres outils.
+### Étudiant en BTS SIO option Réseaux, je m’initie au scripting / développement pour créer des outils.
 
 # 📌 Réseaux Sociaux 
 <a href="https://www.twitch.tv/atis_fps" target="_blank" rel="noreferrer"><img
