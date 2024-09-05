@@ -13,6 +13,7 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 # ⚙️ Projet ( OpenSource // Publique )
  
 - ### ![Powershell][] [ ToolsBox - SISR ](https://github.com/AtisFPS/ToolsBox)
+- ### ![Powershell][] [ WinSetup - BIENTOT ](https://github.com/AtisFPS/WinSetup)
 - ### ![Shell et Python][] [ ServerTools - Minecraft via discord ](https://github.com/AtisFPS/Minecraft-ServerTools)
 
 # 📫 Contact
