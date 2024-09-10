@@ -7,7 +7,7 @@
 
 # 📌 Réseaux Sociaux 
 <a href="https://www.twitch.tv/atis_fps" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-badge&color=087cc4&labelColor=1c1917&label=STATUS+TWITCH" /> </a>
+src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-badge&color=087cc4&labelColor=585454&label=STATUS+TWITCH" /> </a>
 ![](https://komarev.com/ghpvc/?username=AtisFPS&color=blue&style=for-the-badge)
 
 # ⚙️ Projet ( OpenSource // Publique )
