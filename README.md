@@ -14,7 +14,11 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
  
 - ### ![Powershell][] [ ToolsBox - SISR ](https://github.com/AtisFPS/ToolsBox)
 - ### ![Powershell][] [ WinSetup - BIENTOT ](https://github.com/AtisFPS/WinSetup)
-- ### ![Shell et Python][] [ ServerTools - Minecraft via discord ](https://github.com/AtisFPS/Minecraft-ServerTools)
+- ### ![Shell et Python][] [ Gestion serveur via Discord ](https://github.com/AtisFPS/Minecraft-ServerTools)
+
+# 🚀 Pull Requests
+
+- ### 🔧 [ [Fix/Upgrade] - PowerPlan](https://github.com/ChrisTitusTech/winutil/pull/2556) de [Winutils - ChrisTitusTech](https://github.com/ChrisTitusTech/winutils)
 
 # 📫 Contact
 - ```atis@poupli.net``` 
