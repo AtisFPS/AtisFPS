@@ -3,7 +3,9 @@
 [Shell et Python]: https://raw.githubusercontent.com/AtisFPS/AtisFPS/main/upload/python.svg
 
 # ![Poupli.net][] | Atis 
-### Étudiant en BTS SIO option Réseaux, je m’initie au scripting / développement pour créer des outils.
+### Étudiant en BTS SIO option Réseaux, je m’initie au scripting / développement ainsi qu'a Github .
+
+<img src="https://github-readme-stats.vercel.app/api?username=AtisFPS&show_icons=true&theme=one_dark_pro">
 
 # 📌 Réseaux Sociaux 
 <a href="https://www.twitch.tv/atis_fps" target="_blank" rel="noreferrer"><img
@@ -18,8 +20,10 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 
 # 🚀 Pull Requests
 
-- ### 🔧 [ [Fix/Upgrade] - PowerPlan](https://github.com/ChrisTitusTech/winutil/pull/2556) de [Winutils - ChrisTitusTech](https://github.com/ChrisTitusTech/winutils)
+- ### 🔧 [ [Fix/Upgrade] - PowerPlan](https://github.com/ChrisTitusTech/winutil/pull/2556) de [Winutils - ChrisTitusTech](https://github.com/ChrisTitusTech/winutil)
+
 
 # 📫 Contact
+
 - ```atis@poupli.net``` 
 - ```atisfps@gmail.com```
