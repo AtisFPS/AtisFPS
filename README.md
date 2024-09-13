@@ -20,7 +20,7 @@ src="https://img.shields.io/twitch/status/atis_fps?logo=twitchsx&style=for-the-b
 
 # 🚀 Pull Requests
 
-- ### 🔧 [ [Fix/Upgrade] - PowerPlan](https://github.com/ChrisTitusTech/winutil/pull/2556) de [Winutils - ChrisTitusTech](https://github.com/ChrisTitusTech/winutil)
+- ### 🔧 [ [Fix/Upgrade] - PowerPlan](https://github.com/ChrisTitusTech/winutil/pull/2556) de [Winutils - ChrisTitusTech](https://github.com/ChrisTitusTech/winutil). [#2728](https://github.com/ChrisTitusTech/winutil/pull/2728) & [#2556](https://github.com/ChrisTitusTech/winutil/pull/2556)
 
 
 # 📫 Contact
