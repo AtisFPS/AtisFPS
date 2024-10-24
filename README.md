@@ -25,6 +25,7 @@
  
 - ### ![Powershell][] [ ToolsBox - SISR ](https://github.com/AtisFPS/ToolsBox)
 - ### ![Powershell][] [ WinSetup - BIENTOT ](https://github.com/AtisFPS/WinSetup)
+- - ### ![Powershell][] [ Terminal - Powershell ](https://github.com/AtisFPS/PowerTerm)
 - ### ![Shell et Python][] [ Gestion serveur via Discord ](https://github.com/AtisFPS/Minecraft-ServerTools)
 
 # 🚀 Pull Requests
