@@ -3,7 +3,8 @@
 [Shell et Python]: https://raw.githubusercontent.com/AtisFPS/AtisFPS/main/upload/python.svg
 
 # ![Poupli.net][] | Atis 
-### Étudiant en BTS SIO option Réseaux, je m’initie au scripting / développement ainsi qu'a Github .
+### Technicien Informatique dans un CHI 
+### Scripting et GitHub sur mon temps libre 😁
 
 <table>
   <tr>
