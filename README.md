@@ -8,8 +8,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AtisFPS&show_icons=true&theme=one_dark_pro" alt="Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtisFPS&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=one_dark_pro" alt="Top Languages"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Hugo_Atis&show_icons=true&theme=one_dark_pro" alt="Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo_Atis&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=one_dark_pro" alt="Top Languages"></td>
   </tr>
 </table>
 
