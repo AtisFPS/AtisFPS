@@ -2,8 +2,8 @@
 [Powershell]: https://raw.githubusercontent.com/AtisFPS/AtisFPS/819441a3ee57d593782b0f457718c1894131187d/upload/ps_black_32.svg
 [Shell et Python]: https://raw.githubusercontent.com/AtisFPS/AtisFPS/main/upload/python.svg
 
-# ![Poupli.net][] | Atis 
-### Technicien Informatique dans un CHI 
+# ![Poupli.net][] | Hugo / AtisFPS
+### Technicien Informatique  
 ### Scripting et GitHub sur mon temps libre 😁
 
 <table>
@@ -36,5 +36,5 @@
 
 # 📫 Contact
 
-- ```atis@poupli.net``` 
-- ```atisfps@gmail.com```
+- ```hserrure@poupli.net```  / ```serrure.hugo@gmail.com```  
+- ```contact@hserrure.fr```  | Pas encore mis en place 
